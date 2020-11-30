@@ -1,0 +1,3 @@
+# WordPress Notes
+
+## Setup LAMP
